@@ -1,7 +1,10 @@
 # HeadField
 From Advent Of Code - day 9
+
 Solution for riddle from Advent Of Code 2022: https://adventofcode.com/2022/day/9
+
 Text of riddle made by Eric Wastl:
+
 This rope bridge creaks as you walk along it. You aren't sure how old it is, or whether it can even support your weight.
 It seems to support the Elves just fine, though. The bridge spans a gorge which was carved out by the massive river far below you.
 You step carefully; as you do, the ropes stretch and twist. You decide to distract yourself by modeling rope physics; maybe you can even figure out where not to step.
